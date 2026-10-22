@@ -223,7 +223,7 @@ button {
 
 .header_bg {
     background: #ffffff;
-    border-bottom: 1px solid #fc95c4;
+    border-bottom: 1px solid #900606;
 }
 
 .bg-light {
@@ -246,12 +246,12 @@ button {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: #fc95c4;
+    color: #86003c;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #fc95c4;
+    color: #7a082b;
 }
 
 .navbar-brand {
@@ -272,7 +272,7 @@ button {
 }
 
 .login_bt a:hover {
-    color: #fc95c4;
+    color: #630723;
 }
 
 .fa.fa-search.form-control-feedback {
@@ -282,7 +282,7 @@ button {
 
 .fa.fa-search.form-control-feedback:hover {
     font-size: 18px;
-    color: #fc95c4;
+    color: #450120;
 }
 
 
@@ -322,7 +322,7 @@ button {
     float: left;
     padding: 8px 10px;
     color: #ffffff;
-    background-color: #fc95c4;
+    background-color: #6b0000;
     text-align: center;
     font-size: 18px;
     border-radius: 5px;
@@ -352,7 +352,7 @@ button {
 }
 
 .carousel-indicators .active {
-    color: #fc95c4;
+    color: #5e0303;
 }
 
 .carousel-indicators {
@@ -418,7 +418,7 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    background-color: #fc95c4;
+    background-color: #680505;
     color: #ffffff;
     padding: 10px 0px;
     border-radius: 5px;
@@ -479,7 +479,7 @@ button {
     content: '';
     width: 80px;
     height: 6px;
-    background-color: #ffd6e1;
+    background-color: #5f030b;
     bottom: 20px;
     right: 160px;
     border-radius: 4px;
@@ -552,8 +552,8 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    border: 1px solid #fc95c4;
-    color: #fc95c4;
+    border: 1px solid #4d0204;
+    color: #4e040e;
     padding: 8px 0px;
     border-radius: 40px;
 }
@@ -576,7 +576,7 @@ button {
     float: left;
     font-size: 16px;
     text-align: center;
-    background-color: #fc95c4;
+    background-color: #67111c;
     color: #fefefd;
     padding: 10px 0px;
     border-radius: 5px;
@@ -614,7 +614,7 @@ button {
     content: '';
     width: 80px;
     height: 6px;
-    background-color: #ffd6e1;
+    background-color: #3f0313;
     bottom: 25px;
     right: 160px;
     border-radius: 4px;
@@ -637,7 +637,7 @@ button {
 .services_box {
     width: 100%;
     float: left;
-    border: 1px solid #fc9cc8;
+    border: 1px solid #6b0e11;
     padding: 20px 30px;
     height: auto;
 }
@@ -761,7 +761,7 @@ button {
 #main_slider .carousel-control-next {
     width: 50px;
     height: 50px;
-    background-color: #fc95c4;
+    background-color: #620f0f;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -851,7 +851,7 @@ textarea#comment::placeholder {
     color: #fefefd;
     font-size: 16px;
     padding: 10px 0px;
-    background-color: #fc95c4;
+    background-color: #630c0c;
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
@@ -897,11 +897,11 @@ textarea#comment::placeholder {
 }
 
 .padding_left_10:hover {
-    color: #fc95c4;
+    color: #5c0b0b;
 }
 
 .padding_left_10.active {
-    color: #fc95c4;
+    color: #6a0909;
 }
 
 .footer_social_icon {
@@ -935,7 +935,7 @@ textarea#comment::placeholder {
 }
 
 .footer_social_icon li a:hover {
-    background-color: #fc95c4;
+    background-color: #5f0f0f;
     color: #ffffff;
 }
 
@@ -992,7 +992,7 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 13px 0px 14px 0px;
-    background-color: #fc95c4;
+    background-color: #680d0d;
     text-align: center;
     text-transform: uppercase;
 }
@@ -1031,7 +1031,7 @@ textarea#comment.update_mail::placeholder {
 }
 
 .copyright_text a:hover {
-    color: #fc95c4;
+    color: #6a1111;
 }
 
 
